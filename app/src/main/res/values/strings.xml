@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EchelonAuto</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYW1hZ2Vkb20iLCJhIjoiY2xleDl4d2cyMDU4dDN4bzAyOHNucWF0cCJ9.FbKr26ZQ6qDp5gxtK0QdAw</string>
+    <string name="navigation_guidance_day" translatable="false">mapbox://styles/mapbox/navigation-guidance-day-v4</string>
+    <string name="mapbox_style_mapbox_streets">MAPBOX_STREETS</string>
+    <string name="origin_hint">Your starting location...</string>
+    <string name="destination_hint">Your destination...</string>
+</resources>
